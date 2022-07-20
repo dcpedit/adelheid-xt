@@ -5,7 +5,7 @@ This guide is for assembling the bare-bones kit
 ## Parts
 | Name                   | Qty | Notes |
 | ---------              | --- | ----- |
-| XT PCB                 | 1   |
+| Adelheid XT PCB        | 1   |
 | FR4 switch plate 1.2mm | 1   |
 | FR4 bottom plate 1.6mm | 1   |
 | Blackpill (STM32F411)  | 1   |
