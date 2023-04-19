@@ -24,13 +24,24 @@ This guide is for assembling the bare-bones kit
 | Rubber bumper          | 4 - 6 | [Amazon](https://www.amazon.com/gp/product/B088T7XMCY/)
 | Aluminum case feet     | 2   | [Link](https://www.aliexpress.com/item/3256802898681398.html?spm=a2g0o.order_list.0.0.71e51802oef56x)
 
-## Optional
+## Optional Parts
 * Blue Loctite [Amazon](https://www.amazon.com/gp/product/B000I1RSNS/)
 * Keyboard plate support fork (search on Etsy)
 * Electrical tape
 * White 2mm switch LED
 * 470Ω through hole resistor
 * Wire
+
+## Ordering PCBs
+### `pcb-gerbers.zip`
+- No special parameters
+
+### `plate-gerbers.zip`
+- Specify that there are no holes to drill ("no drills")
+- If review fails for a a missing solder mask, specify to cover whole layer
+
+### `bottom-gerbers.zip`
+- No special parameters
 
 ## Instructions
 
