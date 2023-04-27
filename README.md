@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="350" alt="Adelheid" src="https://user-images.githubusercontent.com/800930/235002724-73f38086-34ee-47da-9c48-7a9faca1fd56.png" />
+</p>
+
 # Adelheid XT keyboard
 ![Adelheid XT prototype resized](https://user-images.githubusercontent.com/800930/179583592-98f85229-91ce-405d-bf1f-149b33ecd432.jpg)
 
