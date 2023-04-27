@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "Footprints")(type "KiCad")(uri "${KIPRJMOD}/libraries/Kicad-STM32/Footprints")(options "")(descr ""))
   (lib (name "xt")(type "KiCad")(uri "${KIPRJMOD}/../xt.pretty")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "/Users/mlam/Developer/keyboards/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
 )
