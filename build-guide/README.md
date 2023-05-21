@@ -49,7 +49,8 @@ This guide is for assembling the bare-bones kit
 ### Solder all BAV70 diodes to the PCB (D0 - D63)
 #### Pre-tin a single pad
 Below are before and after pictures of a solder pad before and after pre-tinning a single pad
-[<img src="images/un-tinned-pad.jpg", height="480" />](images/un-tinned-pad.jpg) [<img src="images/tinned-pad.jpg", height="480" />](images/tinned-pad.jpg)
+[<img src="images/un-tinned-pad.jpg", height="480" />](images/un-tinned-pad.jpg)
+[<img src="images/tinned-pad.jpg", height="480" />](images/tinned-pad.jpg)
 
 #### Solder down the single leg to the pre-tinned pad
 Position the diode using a pair of tweesers, and solder the leg to the pre-tinned pad. See [this image](images/grip.jpg) for additional reference 
