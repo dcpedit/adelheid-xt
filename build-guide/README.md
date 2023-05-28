@@ -49,22 +49,22 @@ This guide is for assembling the bare-bones kit
 ### Solder all BAV70 diodes to the PCB (D0 - D63)
 #### Pre-tin a single pad
 Below are before and after pictures of a solder pad before and after pre-tinning a single pad for D0
-[<img src="diodes/images/un-tinned-pad.jpg" height="480" />](diodes/images/un-tinned-pad.jpg)
-[<img src="diodes/images/tinned-pad.jpg" height="480" />](diodes/images/tinned-pad.jpg)
+[<img src="images/diodes/un-tinned-pad.jpg" height="480" />](images/diodes/un-tinned-pad.jpg)
+[<img src="images/diodes/tinned-pad.jpg" height="480" />](images/diodes/tinned-pad.jpg)
 
 #### Solder down the single leg to the pre-tinned pad
 Position the diode using a pair of tweesers, and solder the leg to the pre-tinned pad. See [this image](images/grip.jpg) for additional reference.
-[<img src="diodes/images/tacked.jpg" height="480" />](diodes/images/tacked.jpg)
+[<img src="images/diodes/tacked.jpg" height="480" />](images/diodes/tacked.jpg)
 
 #### Solder remaining legs to their pads
-[<img src="diodes/images/soldered.jpg" height="480" />](diodes/images/soldered.jpg)
+[<img src="images/diodes/soldered.jpg" height="480" />](images/diodes/soldered.jpg)
 
 ### Solder Kaailh hot swap sockets
 Similar to how the diodes are soldered, pre-tin a pad.
-[<img src="sockets/tinned_socket.jpg" height="480" />](sockets/tinned_socket.jpg)
+[<img src="images/sockets/tinned_socket.jpg" height="480" />](images/sockets/tinned_socket.jpg)
 
-Place the socket in place and apply heat with a soldering iron so it heats both the tab on the socket and the pad. Take care that you've positioned the socket in the correct orintation so it does not block the center hole (see [this image for an improperly positioned socket](sockets/bad_position.jpg)).
-[<img src="sockets/solder_side.jpg" height="480" />](sockets/solder_side.jpg)
+Place the socket in place and apply heat with a soldering iron so it heats both the tab on the socket and the pad. Take care that you've positioned the socket in the correct orintation so it does not block the center hole (see [this image for an improperly positioned socket](images/sockets/bad_position.jpg)).
+[<img src="images/sockets/solder_side.jpg" height="480" />](images/sockets/solder_side.jpg)
 
 ### Solder Mill-Max headers for Blackpill.  (Plastic headers on the back while pins are soldered from the front)
 ### Place masking tape over headers and push all 44 Mill-Max pins into place with tweezers.
