@@ -66,6 +66,11 @@ Similar to how the diodes are soldered, pre-tin a pad.
 Place the socket in place and apply heat with a soldering iron so it heats both the tab on the socket and the pad. Take care that you've positioned the socket in the correct orintation so it does not block the center hole (see [this image for an improperly positioned socket](images/sockets/bad_position.jpg)).
 [<img src="images/sockets/solder_side.jpg" height="480" />](images/sockets/solder_side.jpg)
 
+Using a soldering iron, apply heat and solder to the other tab of the socket. Take care not to add too much solder as it may flow into the part of the socket meant to recieve the leg of the key switch (see [this image and note that the void in the tab is full of solder and the solder has begun to flow on top of the tab](images/sockets/full.jpg), indicating that the solder is about to flow into the switch socket).
+[<img src="images/sockets/solder_other_side.jpg" height="480" />](images/sockets/solder_other_side.jpg)
+
+Note that in the image above, the soldering iron is about to come in contact with the socket to the left, which would cause it to melt. To avoid this, solder the sockets into place by collumn, working from the right side to the left.
+
 ### Solder Mill-Max headers for Blackpill.  (Plastic headers on the back while pins are soldered from the front)
 ### Place masking tape over headers and push all 44 Mill-Max pins into place with tweezers.
 ### Position Blackpill over the headers/masking tape with the pins protruding though the holes.  Solder into place.
