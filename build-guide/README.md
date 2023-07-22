@@ -88,9 +88,22 @@ Push all 44 Mill-Max pins into place with tweezers.
 Position Blackpill over the headers/masking tape with the pins protruding though the holes and solder into place.
 [<img src="images/millmax/solder_pill.jpg" height="480">](images/millmax/solder_pill.jpg)
 
-### Slowly remove Blackpill, being careful not to bend any pins.  Remove the masking tape push the Blackpill back in place.
-### Solder OLED header into place.  Plastic header will be on the front, and pins will be soldered in from the back.
-### Solder EC11 rotary encoder.  Encoder is on the front, while pins are soldered from the back.
+### Slowly remove Blackpill
+Be careful not to bend any pins.
+- Try to lift up evenly on all sides.
+- Sliding a plastic spudger between the blackpill and the PCB may help.
+
+Remove the masking tape. Now is a good time to flash your Blackpill with the [Adelheid XT firmware](https://github.com/dcpedit/adelheid-xt/tree/master/firmware) if you haven't already. Push the Blackpill back in place.
+
+### Solder OLED header into place.
+Just like the Mill-Max sockets, the plastic header will be on the front, and pins will be soldered in from the back.
+[<img src="images/oled/header.jpg" height="480">](images/oled/header.jpg)
+
+### Solder EC11 rotary encoder. 
+Similar to the headers headers, encoder is on the front, while pins are soldered from the back.
+[<img src="images/ec11/ec11_placed.jpg" height="480">](images/ec11/ec11_placed.jpg)
+[<img src="images/ec11/solder_ec11.jpg" height="480">](images/ec11/solder_ec11.jpg)
+
 ### Install 2u stabalizers.
 ### Place M2x5 spacers on the bottom of the board over the mounting holes and secure them tightly with M2x4mm screws.  Recommend using blue Loctite on the screws to prevent them from loosening.  They will be hard to retighten once the plate/switches are installed.
 ### Push a switch in each corner of the switch plate, and push them into place onto the PCB.
