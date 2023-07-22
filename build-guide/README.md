@@ -100,7 +100,7 @@ Just like the Mill-Max sockets, the plastic header will be on the front, and pin
 [<img src="images/oled/header.jpg" height="480">](images/oled/header.jpg)
 
 ### Solder EC11 rotary encoder. 
-Similar to the headers headers, encoder is on the front, while pins are soldered from the back.
+Similar to the headers, encoder is on the front, while pins are soldered from the back.
 [<img src="images/ec11/ec11_placed.jpg" height="480">](images/ec11/ec11_placed.jpg)
 [<img src="images/ec11/solder_ec11.jpg" height="480">](images/ec11/solder_ec11.jpg)
 
