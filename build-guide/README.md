@@ -11,7 +11,7 @@ This guide is for assembling the bare-bones kit
 | Blackpill (STM32F411)  | 1   |
 | SSD1306 128x32 OLED    | 1   |
 | EC11 rotary encoder    | 1   |
-| M2x5mm spacer          | 11  | [Amazon](https://www.amazon.com/gp/product/B00R1ISEW0/)
+| M2x8mm spacer          | 11  | [Link](https://www.mouser.com/ProductDetail/Wurth-Elektronik/970080244?qs=%252BEew9%252B0nqrA0FCMvHAtIwQ%3D%3D)
 | M2x4mm screw           | 22  | [Amazon](https://www.amazon.com/gp/product/B082XXWTXJ/)
 | Key switches           | 119 - 225 |
 | 2u stabalizers         | 5 - 10    |
@@ -104,12 +104,35 @@ Similar to the headers, encoder is on the front, while pins are soldered from th
 [<img src="images/ec11/ec11_placed.jpg" height="480">](images/ec11/ec11_placed.jpg)
 [<img src="images/ec11/solder_ec11.jpg" height="480">](images/ec11/solder_ec11.jpg)
 
-### Install 2u stabalizers.
-### Place M2x5 spacers on the bottom of the board over the mounting holes and secure them tightly with M2x4mm screws.  Recommend using blue Loctite on the screws to prevent them from loosening.  They will be hard to retighten once the plate/switches are installed.
-### Push a switch in each corner of the switch plate, and push them into place onto the PCB.
-### Push the rest of the switches in one column at a time, starting from the left column.  This is where a plate support fork will come in handy.
-### Optional - LED for light-up star.  Hand solder wire + 470 resistor + LED to the 3.3v (long pin) and GND (short pin).  Resistor can go anywhere in the circuit.  Wrap exposed wire/pins with electrical tape and tape into place.  [See this image for LED placement](https://imgur.com/45BqOUW).
-### Screw aluminum case feet to the bottom plate (2 large holes).  Or you can just use 2 extra rubber bumpers instead if you want a case with no typing angle.
-### Attach 4 rubber bumpers to the lower edge of the bottom plate.  [See image for palcement](https://imgur.com/AwumD0c)
-### Secure bottom plate to spacers with the remaining M2x4mm screws.
-### Insert OLED screen into the header on top of board.
+### Place M2x8 spacers
+Mount spacers on bottom of the board over the mounting holes and secure them tightly with M2x4mm screws. It is recommend to use blue Loctite on the screws to prevent them from loosening as they will be hard to retighten once the plate/switches are installed.
+
+[<img src="images/spacers/loctite.jpg" height="480">](images/spacers/loctite.jpg)
+
+[<img src="images/spacers/spacer.jpg" height="480">](images/spacers/spacer.jpg)
+
+### Install 2u stabalizers
+Note that the bar for the number pad enter key crossses over the screw head for one of the M2x8 spacers. Double check this spacer is well fastened before installing the stabalizer.
+
+### Attach switch plate (top plate)
+Push a switch in each corner of the switch plate, and push them into place onto the PCB.
+
+[<img src="images/switch_plate/switch_plate.jpg" height="480">](images/switch_plate/switch_plate.jpg)
+
+Push the rest of the switches in one column at a time, starting from the left column.  This is where a plate support fork will come in handy.
+
+### Optional - LED for light-up star
+Hand solder wire + 470 resistor + LED to the 3.3v (long pin) and GND (short pin).  Resistor can go anywhere in the circuit.  Wrap exposed wire/pins with electrical tape and tape into place. 
+
+
+[<img src="images/backlight/backlight.jpg" height="480">](images/backlight/backlight.jpg)
+
+### Optional - Aluminum case feet 
+Attach the aluminum case feet to the two large holes on the bottom plate, or you can just use 2 extra rubber bumpers instead if you want a case with no typing angle.
+
+[<img src="images/feet/feet.jpg" height="480">](images/feet/feet.jpg)
+
+Attach 4 rubber bumpers to the lower edge of the bottom plate.
+
+### Finishing touches
+Secure bottom plate to spacers with the remaining M2x4mm screws, and insert OLED screen into the header on top of board.
